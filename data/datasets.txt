@@ -1,0 +1,5 @@
+AI4I Dataset:
+https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
+
+NASA C-MAPSS:
+https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
